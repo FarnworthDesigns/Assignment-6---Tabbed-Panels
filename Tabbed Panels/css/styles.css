@@ -1,0 +1,35 @@
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+.content {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-size: 30px;
+	color: #2168b1;
+	border-bottom: solid 1px #aaa;
+	margin-bottom: 1em;
+	font-family: 'Oswald', sans-serif;
+}
+
+#panel1 img {
+	float:right;
+	margin-top: -50px;
+	height:150px; 
+}
+
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover {
+    border: 1px solid #003eff;
+    background: #2168b1;
+    font-weight: normal;
+    color: #fff;
+}
+
+.ui-widget-header {
+    border: 1px solid #999;
+    background-color: #ccc;
+}
+
