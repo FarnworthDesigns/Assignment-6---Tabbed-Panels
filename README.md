@@ -1,2 +1,2 @@
-# Assignment-6---Tabbed-Panels
+# Tabbed-Panels
  
